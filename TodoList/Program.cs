@@ -156,9 +156,7 @@ bool handleProvidedIndex(out int index)
 
 }
 
-void LogEmptyTodoListMessage()
-{
-    Console.WriteLine("No TODOs have been added yet.");
-}
+void LogEmptyTodoListMessage() => Console.WriteLine("No TODOs have been added yet.");
+
 
 Environment.Exit(0);
