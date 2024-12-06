@@ -52,7 +52,6 @@ This project demonstrates:
 
 ## Future Improvements
 
-- Persistent storage (file/database)
 - Due dates for todos
 - Priority levels
 - Search functionality
